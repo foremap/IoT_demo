@@ -1,2 +1,2 @@
-APP_KEY = "WTMpWBYjN4DUgKqycABcdECD"
-SECRET_KEY = "f10f8ffe9e6332b1964e52b0408cb27e"
+APP_KEY = "ooooooo"
+SECRET_KEY = "xxxxxxxxx"
